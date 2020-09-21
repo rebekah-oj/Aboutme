@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="bill_gates">Bill Gates</string>
+    <string name="star_button">star button</string>
+    <string name="bio_text">William Henry Gates III (born October 28, 1955) is an American business magnate,
+        \n\nsoftware developer, investor, and philanthropist.
+        \n\nHe is best known as the co-founder of Microsoft Corporation.[2][3] During his career at Microsoft,
+        \n\nGates held the positions of chairman, chief executive officer (CEO), president and chief software architect,
+       \n\n while also being the largest individual shareholder until May 2014.
+        \n\nHe is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s.
+        \n\nBorn and raised in Seattle, Washington, Gates co-founded Microsoft with childhood friend Paul Allen in 1975,
+    </string>
+    <string name="an_image_of_bill">an image of bill</string>
+    <string name="name">name</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">DONE</string>
+</resources>
